@@ -1,0 +1,16 @@
+body {
+background-color:#FAFAD2
+}
+nav {
+    text-align: center;
+    background-color:black;
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 26px;
+}
+nav a {
+    padding: 20px;
+    color:  White;
+}
+ul li {font-weight: bold
+  }
